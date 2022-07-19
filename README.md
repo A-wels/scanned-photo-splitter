@@ -17,4 +17,4 @@ python image_extractor.py <path>
 ```
 Optional:
 
-`-s`: Show preview of detected photos
+`-s` Show preview of detected photos
