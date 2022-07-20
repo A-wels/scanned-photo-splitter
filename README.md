@@ -18,4 +18,5 @@ python image_extractor.py <path>
 Optional:
 
 `-s` Show preview of detected photos
+
 ![Example preview image](images/scan_split.png)
