@@ -195,7 +195,7 @@ pyzstd==0.15.2
 rados==2.0.0
 rbd==2.0.0
 regex==2022.6.2
-reportlab==3.6.10
+reportlab==3.6.13
 requests==2.27.1
 requests-toolbelt==0.9.1
 requests-unixsocket==0.3.0
