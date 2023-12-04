@@ -243,7 +243,7 @@ trove-classifiers==2022.6.26
 typing_extensions==4.2.0
 udiskie==2.4.2
 unrardll==0.1.5
-urllib3==1.26.9
+urllib3==1.26.18
 validate==5.1.0.dev0
 validate-pyproject==0.9
 virtualenv==20.11.0
