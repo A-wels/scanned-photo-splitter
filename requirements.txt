@@ -130,7 +130,7 @@ outcome==1.1.0
 packaging==21.3
 pacman-mirrors==4.23.2
 pandocfilters==1.5.0
-paramiko==2.9.1
+paramiko==2.9.3
 parso==0.8.2
 pastel==0.2.1
 pathspec==0.9.0
